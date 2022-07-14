@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Navigation />
       <div>
-        <p>coucou</p>
+        <p>coucou</p><p>coucou</p><p>coucou</p><p>coucou</p><p>coucou</p>
       </div>
     </div>
   );
