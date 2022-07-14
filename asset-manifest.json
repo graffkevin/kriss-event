@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kriss-event/static/css/main.5c28c277.css",
-    "main.js": "/kriss-event/static/js/main.6d162e9e.js",
+    "main.js": "/kriss-event/static/js/main.381facb8.js",
     "static/js/787.9bc33aa1.chunk.js": "/kriss-event/static/js/787.9bc33aa1.chunk.js",
     "index.html": "/kriss-event/index.html",
     "main.5c28c277.css.map": "/kriss-event/static/css/main.5c28c277.css.map",
-    "main.6d162e9e.js.map": "/kriss-event/static/js/main.6d162e9e.js.map",
+    "main.381facb8.js.map": "/kriss-event/static/js/main.381facb8.js.map",
     "787.9bc33aa1.chunk.js.map": "/kriss-event/static/js/787.9bc33aa1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c28c277.css",
-    "static/js/main.6d162e9e.js"
+    "static/js/main.381facb8.js"
   ]
 }
