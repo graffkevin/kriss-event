@@ -1,0 +1,22 @@
+.img-size{
+  height: auto;
+  width: auto;
+}
+
+.img-transition{
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.col-sm:hover .img-transition{
+  opacity: 0.3;
+}
+
+.title-img-position{
+  position: relative;
+  bottom: 40px;
+  background-color: rgba(0, 0, 0, 0.219);
+  color: rgb(7, 5, 88);
+  padding-left: 20px;
+  padding-right: 20px;
+}

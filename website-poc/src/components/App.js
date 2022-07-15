@@ -1,13 +1,15 @@
 import './App.css';
-import Navigation from './navigation/Navigation'
+import './content/style.css'
+import Navigation from './navigation/Navigation';
+import Event from './content/Event';
 
 function App() {
 
   return (
     <div className="App">
       <Navigation />
-      <div>
-        <p>coucou</p><p>coucou</p><p>coucou</p><p>coucou</p><p>coucou</p>
+      <div className="container">
+        <Event />
       </div>
     </div>
   );
