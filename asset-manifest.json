@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/kriss-event/static/css/main.5c28c277.css",
-    "main.js": "/kriss-event/static/js/main.381facb8.js",
+    "main.css": "/kriss-event/static/css/main.92b9c193.css",
+    "main.js": "/kriss-event/static/js/main.125e2df9.js",
     "static/js/787.9bc33aa1.chunk.js": "/kriss-event/static/js/787.9bc33aa1.chunk.js",
+    "static/media/03_wedding_img.jpg": "/kriss-event/static/media/03_wedding_img.d4dbb053fa7cd7917bd2.jpg",
+    "static/media/01_baptism_img.jpg": "/kriss-event/static/media/01_baptism_img.f1f24cb8b280347cdf45.jpg",
+    "static/media/02_birthday_img.jpg": "/kriss-event/static/media/02_birthday_img.4ac89715d6855d0d11af.jpg",
     "index.html": "/kriss-event/index.html",
-    "main.5c28c277.css.map": "/kriss-event/static/css/main.5c28c277.css.map",
-    "main.381facb8.js.map": "/kriss-event/static/js/main.381facb8.js.map",
+    "main.92b9c193.css.map": "/kriss-event/static/css/main.92b9c193.css.map",
+    "main.125e2df9.js.map": "/kriss-event/static/js/main.125e2df9.js.map",
     "787.9bc33aa1.chunk.js.map": "/kriss-event/static/js/787.9bc33aa1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c28c277.css",
-    "static/js/main.381facb8.js"
+    "static/css/main.92b9c193.css",
+    "static/js/main.125e2df9.js"
   ]
 }
